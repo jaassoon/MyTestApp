@@ -21,9 +21,8 @@ public class MyHttpClient {
 
 		BufferedReader in = null;  
         try {  
-            HttpClient client = new DefaultHttpClient();  
-//            HttpPost request = new HttpPost("https://service9.nsdhealth.com/Services/");  
-            HttpPost request = new HttpPost("https://service9.nsdhealth.com/");
+            HttpClient client = new DefaultHttpClient();
+            HttpPost request = new HttpPost("https://service9.abc.com/");
              
             List<NameValuePair> postParameters = new ArrayList<NameValuePair>();  
              

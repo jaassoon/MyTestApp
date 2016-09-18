@@ -1,4 +1,5 @@
 # **js remote debug** 
+[日本外交政策论坛](http://www.cn.japanpolicyforum.jp)
 
 [醫砭‧沈藥子‧台灣](http://yibian.hopto.org/shu/?sid=4392)
 

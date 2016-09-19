@@ -17,6 +17,7 @@
 
 [虐待、人口販運、與性迫害，關於那些逃離北韓的「脫北者」](https://tw.mobi.yahoo.com/news/虐待、人口販運、與性迫害，關於那些逃離北韓的「脫北者」-021505985.html)
 
+[北韓饑荒最壞的時刻已經過去，因為「會死的全死光了」](http://www.thenewslens.com/article/47259)
 [朝鲜 一座国家级集中营](http://tieba.baidu.com/p/3344064441?pn=0&)
 
 [移动端开发真机调试神器](http://web.jobbole.com/87587/)

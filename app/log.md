@@ -1,4 +1,9 @@
 # **js remote debug** 
+
+[base64decode](https://www.base64decode.org/)
+
+[whatismyip](https://www.whatismyip.com/)
+
 [日本外交政策论坛](http://www.cn.japanpolicyforum.jp)
 
 [醫砭‧沈藥子‧台灣](http://yibian.hopto.org/shu/?sid=4392)

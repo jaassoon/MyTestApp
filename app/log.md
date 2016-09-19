@@ -1,4 +1,6 @@
 # **js remote debug** 
+[“黑烟”的秘密：《LOST》 “2.5”季+第3季1-6集小结](http://i.mtime.com/wzcjojo/blog/649309/)
+
 [PIN analysis](http://datagenetics.com/blog/september32012/index.html)
 
 [kali_tools](http://tools.kali.org/)

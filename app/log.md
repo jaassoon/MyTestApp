@@ -1,5 +1,8 @@
 # **js remote debug** 
+[PIN analysis](http://datagenetics.com/blog/september32012/index.html)
+
 [kali_tools](http://tools.kali.org/)
+
 [模拟登陆CSDN](http://blog.inet198.cn/?u012345283/article/details/38788659)
 
 [base64decode](https://www.base64decode.org/)
